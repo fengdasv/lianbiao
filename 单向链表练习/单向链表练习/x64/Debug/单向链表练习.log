@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+E:\code\vs\单向链表练习\单向链表练习\FileName.cpp(224,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  单向链表练习.vcxproj -> E:\code\vs\单向链表练习\x64\Debug\单向链表练习.exe

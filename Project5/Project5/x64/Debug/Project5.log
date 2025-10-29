@@ -1,0 +1,20 @@
+﻿  FileName.cpp
+E:\code\vs\Project5\Project5\FileName.cpp(32,10): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+E:\code\vs\Project5\Project5\FileName.cpp(32,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      E:\code\vs\Project5\Project5\FileName.cpp(32,10):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      E:\code\vs\Project5\Project5\FileName.cpp(32,10):
+      缺失的可变参数 1 为格式字符串“%3d”所需
+  
+E:\code\vs\Project5\Project5\FileName.cpp(32,10): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+E:\code\vs\Project5\Project5\FileName.cpp(32,30): error C2059: 语法错误:“)”
+E:\code\vs\Project5\Project5\FileName.cpp(37,10): error C2143: 语法错误: 缺少“)”(在“常数”的前面)
+E:\code\vs\Project5\Project5\FileName.cpp(37,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      E:\code\vs\Project5\Project5\FileName.cpp(37,10):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      E:\code\vs\Project5\Project5\FileName.cpp(37,10):
+      缺失的可变参数 1 为格式字符串“%3d”所需
+  
+E:\code\vs\Project5\Project5\FileName.cpp(37,10): error C2143: 语法错误: 缺少“;”(在“常数”的前面)
+E:\code\vs\Project5\Project5\FileName.cpp(37,36): error C2059: 语法错误:“)”
+E:\code\vs\Project5\Project5\FileName.cpp(78,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据

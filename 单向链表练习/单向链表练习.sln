@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单向链表练习", "单向链表练习\单向链表练习.vcxproj", "{379BA5A1-830A-4456-93F6-56038A744CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Debug|x64.ActiveCfg = Debug|x64
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Debug|x64.Build.0 = Debug|x64
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Debug|x86.Build.0 = Debug|Win32
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Release|x64.ActiveCfg = Release|x64
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Release|x64.Build.0 = Release|x64
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Release|x86.ActiveCfg = Release|Win32
+		{379BA5A1-830A-4456-93F6-56038A744CFE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0527C149-C3D6-439E-9EF2-2FC6CFBA59EB}
+	EndGlobalSection
+EndGlobal

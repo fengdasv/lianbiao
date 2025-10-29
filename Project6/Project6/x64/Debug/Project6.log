@@ -1,0 +1,23 @@
+﻿  FileName.cpp
+D:\code\vs\Project6\Project6\FileName.cpp(17,9): error C2440: “return”: 无法从“Node *”转换为“Node”
+      D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+      “Node::Node”: 没有重载函数可以转换所有参数类型
+          D:\code\vs\Project6\Project6\FileName.cpp(11,1):
+          可能是“Node::Node(Node &&)”
+              D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+              “Node::Node(Node &&)”: 无法将参数 1 从“Node *”转换为“Node &&”
+                  D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+                  原因如下: 无法从“Node *”转换为“Node”
+                  D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+                  转换要求第二个用户定义的转换运算符或构造函数
+          D:\code\vs\Project6\Project6\FileName.cpp(11,1):
+          或    “Node::Node(const Node &)”
+              D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+              “Node::Node(const Node &)”: 无法将参数 1 从“Node *”转换为“const Node &”
+                  D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+                  原因如下: 无法从“Node *”转换为“const Node”
+                  D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+                  转换要求第二个用户定义的转换运算符或构造函数
+          D:\code\vs\Project6\Project6\FileName.cpp(17,9):
+          尝试匹配参数列表“(Node *)”时
+  
