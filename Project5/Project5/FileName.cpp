@@ -19,7 +19,7 @@ Node* insert(Node* head, int pos, int val) {
 	Node new_head, * p = &new_head, * node = getnewNode(val);
 	new_head.next = head;
 	for (int i = 0; i < pos; i++) p = p->next;
-	node->next = p->next;
+	node->next = p->next;//进行插入操作的算法设计
 	p->next = node;
 	return new_head.next;
 

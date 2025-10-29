@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<time.h>
+const int a = 3;
+const int b = 1;
 typedef struct vector {
 	int size;
 	int count;

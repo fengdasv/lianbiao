@@ -17,11 +17,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -39,9 +47,9 @@
               "Title": "FileName.cpp",
               "DocumentMoniker": "E:\\code\\vs\\Project3\\Project3\\FileName.cpp",
               "RelativeDocumentMoniker": "Project3\\FileName.cpp",
-              "ToolTip": "E:\\code\\vs\\Project3\\Project3\\FileName.cpp",
-              "RelativeToolTip": "Project3\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "ToolTip": "E:\\code\\vs\\Project3\\Project3\\FileName.cpp*",
+              "RelativeToolTip": "Project3\\FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-07T07:35:20Z",
               "EditorCaption": ""
