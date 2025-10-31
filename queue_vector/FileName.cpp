@@ -12,6 +12,7 @@ vector* initvector(int n) {
     v->data = (int*)malloc(sizeof(int) * n);
     v->size = n;  // 添加size初始化
     return v;
+   
 }
 
 void clearvector(vector* v) {  // 移除void*返回值类型
@@ -52,7 +53,7 @@ int push(Queue* q, int val) {
     if (q->count == q->size) return 0;
 
     insertvector(q->data, q->tail, val);
-    q->tail = (q->tail + 1) % q->size;  // 修正：循环更新tail
+    q->tail= (q->tail + 1) % q->size;  // 修正：循环更新tail
     q->count += 1;  // 修正：只增加一次count
     return 1;
 }

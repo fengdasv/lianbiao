@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -30,9 +34,9 @@
               "Title": "FileName.cpp",
               "DocumentMoniker": "E:\\code\\vs\\queue_vector\\FileName.cpp",
               "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "E:\\code\\vs\\queue_vector\\FileName.cpp*",
-              "RelativeToolTip": "FileName.cpp*",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAQwHoAAAABAAAAAAAAAA==",
+              "ToolTip": "E:\\code\\vs\\queue_vector\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-29T07:01:31.618Z",
               "EditorCaption": ""
