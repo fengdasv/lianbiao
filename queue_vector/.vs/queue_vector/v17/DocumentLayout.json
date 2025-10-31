@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileName.cpp",
-              "DocumentMoniker": "E:\\code\\vs\\queue_vector\\FileName.cpp",
-              "RelativeDocumentMoniker": "FileName.cpp",
-              "ToolTip": "E:\\code\\vs\\queue_vector\\FileName.cpp",
-              "RelativeToolTip": "FileName.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-29T07:01:31.618Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -36,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "E:\\code\\vs\\queue_vector\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "E:\\code\\vs\\queue_vector\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-29T07:01:31.618Z",
+              "EditorCaption": ""
             }
           ]
         }
